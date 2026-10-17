@@ -1,0 +1,18 @@
+# База данных и личные данные
+users.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Секреты и настройки окружения
+.env
+
+# Файлы редакторов
+.vscode/
+.idea/
